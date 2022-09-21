@@ -18,3 +18,5 @@ Arr: [100, 223, 25, 1908, 1236]
 
 Arr: [1120923, 237823, 89892301, 1237687238, 1236233]
 
+Nota:
+El arreglo no necesariamente está ordenado
