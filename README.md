@@ -13,6 +13,8 @@ Al final debe mostrar el valor mínimo y máximo así: 10, 14
 Probar con:
 
 Arr: [10, 2, 5, 8, 6]
+
 Arr: [100, 223, 25, 1908, 1236]
+
 Arr: [1120923, 237823, 89892301, 1237687238, 1236233]
 
